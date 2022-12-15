@@ -16,6 +16,35 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 3 Pixlr advertisement project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
+
+
+
+
+
+
 
 ### My Web Design Project
 
@@ -33,8 +62,9 @@
 
 ---
 
+### My MidTerm Project
 
-
+-{Midterm Project - E-commerce](https://auctionhouse.w3spaces.com)
 
 
        
