@@ -19,15 +19,19 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 [Project 3 Pixlr advertisement project]
 <img src="images/![Clemons cologne Ad](https://user-images.githubusercontent.com/117403987/207924624-c5efaab6-bae7-4e07-88fb-9611af59570b.jpg)"/>
 
+---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
