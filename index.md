@@ -37,15 +37,6 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
-
-
-
-
-
-
-
-
 ### My Web Design Project
 
 - [Project 1 Isabella's HTML 1 Project](https://trinket.io/html/f91d4af5cf)
@@ -64,7 +55,8 @@
 
 ### My MidTerm Project
 
--{Midterm Project - E-commerce](https://auctionhouse.w3spaces.com)
+- [Midterm Project - E-commerce]<img src="images/dummy_thumbnail.jpg?raw=true"/>
+ (https://auctionhouse.w3spaces.com)
 
 
        
