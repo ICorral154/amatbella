@@ -59,8 +59,7 @@
 
 ### My MidTerm Project
 
-- [Midterm Project - E-commerce]<img src="images/dummy_thumbnail.jpg?raw=true"/>
- (https://auctionhouse.w3spaces.com)
+- [Midterm Project - E-commerce] (https://auctionhouse.w3spaces.com)
 
 
        
