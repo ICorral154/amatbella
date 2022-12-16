@@ -12,11 +12,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Liquid / Graffiti style image- Swirly night](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Liquid / Graffiti style image- Swirly night]
+<img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_434%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2F13fad627c333b912ff5e155c9b8f13ed%2FPICASSCO.png/>
 
 ---
-[Project 3 Pop Art movement / Design by Pixlr- Emotional Donald Duck](http://example.com/)
+[Project 3 Pop Art movement / Design by Pixlr- Emotional Donald Duck]
 <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_508%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2F1b16bba0d94d28be00c1ead0292ce682%2FWaltDisney_DonaldDuck_square_1200x1200.jpg"/>
 
 ---
