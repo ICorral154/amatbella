@@ -54,14 +54,9 @@
 <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_749%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2F0e834f74caecae6a0ce7d7f3f67e38fd%2FDouble_color_exposure.jpg"/>
 
 ---
-[Project 11 Title]
+[Project 11: Pop Out effect- John Doe]
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title]
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_674%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2Ff5a67c024928eee547a3f0aeaa906c9e%2FPop_Out_effect.jpg"/>
 
 ### My Web Design Project
 
