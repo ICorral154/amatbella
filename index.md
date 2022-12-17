@@ -58,6 +58,7 @@
 
 <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_674%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2Ff5a67c024928eee547a3f0aeaa906c9e%2FPop_Out_effect.jpg"/>
 
+---
 ### My Web Design Project
 
 - [Project 1 Isabella's HTML 1 Project](https://trinket.io/html/f91d4af5cf)
