@@ -30,7 +30,7 @@
 <img src="images/![Clemons cologne Ad](https://user-images.githubusercontent.com/117403987/207924624-c5efaab6-bae7-4e07-88fb-9611af59570b.jpg)"/>
 
 ---
-[Project 7 A Surreal Animal Mashup with Pixlr E- Raccoon on the run](http://example.com/)
+[Project 7 A Surreal Animal Mashup with Pixlr E- Raccoon on the run]
 
 <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_429%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2F875832148d9c497616d4e8a906044e75%2FA_Surreal_Animal_Mashup_with_Pixlr_E.jpg"/>
 
