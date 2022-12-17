@@ -35,8 +35,9 @@
 <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_429%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2F875832148d9c497616d4e8a906044e75%2FA_Surreal_Animal_Mashup_with_Pixlr_E.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 8 A Ripped Effect Portrait -Something to live by]
+
+<img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_434%2Cw_508&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1909651983%2F38fe33f5402c33e442446fb467eb89ba%2Flittle_boy_7356705_960_720__PHOTOSHOPPED_.jpg"/>
 
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
